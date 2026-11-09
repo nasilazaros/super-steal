@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:43+00:00",
+ "updated": "2026-11-09T04:54+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -102,14 +102,14 @@
    "url": "https://www.lidl-hellas.gr/p/freshona-lacanika-poikilia/p11001356029"
   },
   {
-   "title": "Harvest Basket Πατάτες Duchesse",
+   "title": "DELUXE Πατάτες Duchesse",
    "price": 1.99,
    "packaging": "600g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 600.0,
    "price_kg": 3.32,
-   "url": "https://www.lidl-hellas.gr/p/harvest-basket-patates-duchesse/p11030579"
+   "url": "https://www.lidl-hellas.gr/p/deluxe-patates-duchesse/p11030579"
   },
   {
    "title": "DELUXE Εκλεκτή σάλτσα τομάτας για ζυμαρικά ποικιλία",
@@ -512,7 +512,7 @@
    "url": "https://www.lidl-hellas.gr/p/spread-coyrma/p11654052"
   },
   {
-   "title": "DELUXE Τυρί (Τρούφα)",
+   "title": "DELUXE Τυρί (Τρούφες)",
    "price": null,
    "packaging": "",
    "when": "Στο κατάστημα",
