@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:43+00:00",
+ "updated": "2026-11-11T04:50+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -52,7 +52,7 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-gampari-argentinis/p11532417"
   },
   {
-   "title": "DELUXE Γεμιστό μαλακό τυρί ποικιλία",
+   "title": "Deluxe Γεμιστό μαλακό τυρί ποικιλία",
    "price": null,
    "packaging": "",
    "when": "Στο κατάστημα",
@@ -322,14 +322,14 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-cantuccini-mpiskota/p11002848001"
   },
   {
-   "title": "Φρούτα με επικάλυψη σοκολάτας",
+   "title": "DELUXE Φρούτα με επικάλυψη σοκολάτας",
    "price": 3.49,
    "packaging": "Κάθε συσκ. 100 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 100.0,
    "price_kg": 34.9,
-   "url": "https://www.lidl-hellas.gr/p/froyta-me-epikalypi-sokolatas/p11030444"
+   "url": "https://www.lidl-hellas.gr/p/deluxe-froyta-me-epikalypi-sokolatas/p11030444"
   },
   {
    "title": "Deluxe Ποικιλία τυριών",
@@ -482,16 +482,6 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-fileta-gayroy-se-elaiolado/p11139901"
   },
   {
-   "title": "DELUXE (Θαλασσινό αλάτι)",
-   "price": 1.99,
-   "packaging": "100 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 100.0,
-   "price_kg": 19.9,
-   "url": "https://www.lidl-hellas.gr/p/deluxe/p11005066001"
-  },
-  {
    "title": "DELUXE Σάλτσα τρούφας",
    "price": 6.99,
    "packaging": "Κάθε συσκ. 90 g",
@@ -612,7 +602,7 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-panettone-me-karamela-kai-epikalypi-sokolatas/p11082869"
   },
   {
-   "title": "DELUXE Τσουρέκι σοκολάτας με μαύρη επικάλυψη",
+   "title": "Deluxe Τσουρέκι σοκολάτας με μαύρη επικάλυψη",
    "price": 7.49,
    "packaging": "500 Kg",
    "when": "Στο κατάστημα",
