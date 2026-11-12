@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:50+00:00",
+ "updated": "2026-11-12T04:50+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -622,36 +622,6 @@
    "url": "https://www.lidl-hellas.gr/p/maribel-aleimma-fistikioy/p11007620"
   },
   {
-   "title": "Deluxe Χταπόδι Carpaccio",
-   "price": 3.99,
-   "packaging": "150 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 150.0,
-   "price_kg": 26.6,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-ctapodi-carpaccio/p11102009"
-  },
-  {
-   "title": "Deluxe Καπνιστή πανσέτα σε φέτες",
-   "price": 2.39,
-   "packaging": "180 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 180.0,
-   "price_kg": 13.28,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-kapnisti-panseta-se-fetes/p11213856"
-  },
-  {
-   "title": "Deluxe Μαλακό τυρί Gorgonzola Π.Ο.Π",
-   "price": 2.99,
-   "packaging": "200 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 200.0,
-   "price_kg": 14.95,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-malako-tyri-gorgonzola-p-o-p/p11031157"
-  },
-  {
    "title": "Deluxe Λουκάνικο Kabanossi",
    "price": 1.69,
    "packaging": "80 g",
@@ -660,16 +630,6 @@
    "pack_g": 80.0,
    "price_kg": 21.13,
    "url": "https://www.lidl-hellas.gr/p/deluxe-loykaniko-kabanossi/p11111926"
-  },
-  {
-   "title": "DELUXE Λουκάνικα Salsiccia",
-   "price": 3.39,
-   "packaging": "Κάθε συσκ. 250 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 250.0,
-   "price_kg": 13.56,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-loykanika-salsiccia/p11255160"
   },
   {
    "title": "FAVORINA Σιροπιαστά σε ταψάκι",
