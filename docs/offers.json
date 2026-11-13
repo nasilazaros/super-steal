@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:50+00:00",
+ "updated": "2026-11-13T04:50+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -42,14 +42,14 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-ladi-troyfas-me-kommatakia-troyfas/p11253725"
   },
   {
-   "title": "Deluxe Γάμπαρη Αργεντινής",
+   "title": "OCEAN SEA Γάμπαρη Αργεντινής",
    "price": 9.99,
    "packaging": "600g (540g)",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 1140.0,
    "price_kg": 18.5,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-gampari-argentinis/p11532417"
+   "url": "https://www.lidl-hellas.gr/p/ocean-sea-gampari-argentinis/p11532417"
   },
   {
    "title": "Deluxe Γεμιστό μαλακό τυρί ποικιλία",
@@ -92,14 +92,14 @@
    "url": "https://www.lidl-hellas.gr/p/meigma-xiron-karpon-poikilia/p11120893"
   },
   {
-   "title": "FRESHONA Λαχανικά ποικιλία (Εορταστικά λαχανικά)",
+   "title": "FRESHONA Μείγμα λαχανικών (Εορταστικά λαχανικά)",
    "price": 2.29,
    "packaging": "750g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 750.0,
    "price_kg": 3.05,
-   "url": "https://www.lidl-hellas.gr/p/freshona-lacanika-poikilia/p11001356029"
+   "url": "https://www.lidl-hellas.gr/p/freshona-meigma-lacanikon/p11001356029"
   },
   {
    "title": "DELUXE Πατάτες Duchesse",
