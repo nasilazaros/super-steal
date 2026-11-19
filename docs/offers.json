@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:53+00:00",
+ "updated": "2026-11-19T04:55+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -92,16 +92,6 @@
    "url": "https://www.lidl-hellas.gr/p/meigma-xiron-karpon-poikilia/p11120893"
   },
   {
-   "title": "FRESHONA Μείγμα λαχανικών (Εορταστικά λαχανικά)",
-   "price": 2.29,
-   "packaging": "750g",
-   "when": "μόνο στο κατάστημα από 23.11. - 25.11.",
-   "loose": false,
-   "pack_g": 750.0,
-   "price_kg": 3.05,
-   "url": "https://www.lidl-hellas.gr/p/freshona-meigma-lacanikon/p11001356029"
-  },
-  {
    "title": "DELUXE Πατάτες Duchesse",
    "price": 1.99,
    "packaging": "600g",
@@ -162,7 +152,7 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-tyri-poikilia/p11268740002"
   },
   {
-   "title": "DELUXE Nιόκι πατάτας γεμιστά (Κιχώριο και Σκαμόρζα)",
+   "title": "DELUXE Nιόκι πατάτας γεμιστά (Νιόκι με γέμιση τυρί)",
    "price": 2.49,
    "packaging": "Κάθε συσκ. 500 g",
    "when": "Στο κατάστημα",
@@ -352,16 +342,6 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-salami-poikilia/p11144356"
   },
   {
-   "title": "Deluxe Zαμπόν ωρίμανσης Jamon Serrano Gran Reserva",
-   "price": 2.19,
-   "packaging": "70 g",
-   "when": "Στο κατάστημα",
-   "loose": false,
-   "pack_g": 70.0,
-   "price_kg": 31.29,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-zampon-orimansis-jamon-serrano-gran-reserva/p11006770"
-  },
-  {
    "title": "DELUXE Αρωματισμένο βούτυρο (με τρούφα)",
    "price": 3.09,
    "packaging": "80 g",
@@ -502,7 +482,7 @@
    "url": "https://www.lidl-hellas.gr/p/spread-coyrma/p11654052"
   },
   {
-   "title": "DELUXE Τυρί (Τρούφες)",
+   "title": "DELUXE Τυρί (Νιόκι με γέμιση τρούφα)",
    "price": null,
    "packaging": "",
    "when": "Στο κατάστημα",
@@ -704,7 +684,7 @@
   {
    "title": "FAVORINA Panettone με κρέμα σοκολάτας",
    "price": 7.99,
-   "packaging": "800g",
+   "packaging": "800 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 800.0,
