@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:55+00:00",
+ "updated": "2026-11-20T04:52+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -352,7 +352,7 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-aromatismeno-voytyro/p11031212001"
   },
   {
-   "title": "Deluxe Μακαρόνς",
+   "title": "DELUXE Μακαρόνς",
    "price": 12.49,
    "packaging": "36x13g",
    "when": "Στο κατάστημα",
@@ -542,14 +542,14 @@
    "url": "https://www.lidl-hellas.gr/p/snack-day-ceiropoiita-tsips/p11041036"
   },
   {
-   "title": "DELUXE Εκλεκτές τούρτες",
+   "title": "DELUXE Τούρτα",
    "price": null,
    "packaging": "",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": null,
    "price_kg": null,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-eklektes-toyrtes/p11041298"
+   "url": "https://www.lidl-hellas.gr/p/deluxe-toyrta/p11041298"
   },
   {
    "title": "Deluxe Marron glace με σοκολάτα",
@@ -582,7 +582,7 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-panettone-me-karamela-kai-epikalypi-sokolatas/p11082869"
   },
   {
-   "title": "Deluxe Τσουρέκι σοκολάτας με μαύρη επικάλυψη",
+   "title": "DELUXE Τσουρέκι σοκολάτας με μαύρη επικάλυψη",
    "price": 7.49,
    "packaging": "500 Kg",
    "when": "Στο κατάστημα",
@@ -610,6 +610,116 @@
    "pack_g": 80.0,
    "price_kg": 21.13,
    "url": "https://www.lidl-hellas.gr/p/deluxe-loykaniko-kabanossi/p11111926"
+  },
+  {
+   "title": "Μίνι ταρτάκια",
+   "price": 4.49,
+   "packaging": "Κάθε συσκ. 290 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 290.0,
+   "price_kg": 15.48,
+   "url": "https://www.lidl-hellas.gr/p/mini-tartakia/p11684479"
+  },
+  {
+   "title": "DELUXE Επιδόρπιο κρέμας σοκολάτας με καρύδα",
+   "price": 1.59,
+   "packaging": "Κάθε συσκ. 130 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 130.0,
+   "price_kg": 12.23,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-epidorpio-kremas-sokolatas-me-karyda/p11040175"
+  },
+  {
+   "title": "GELATELLI Τούρτα παγωτό",
+   "price": 5.79,
+   "packaging": "Κάθε συσκ. 400 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 400.0,
+   "price_kg": 14.48,
+   "url": "https://www.lidl-hellas.gr/p/gelatelli-toyrta-pagoto/p11679463"
+  },
+  {
+   "title": "DELUXE Chai Latte",
+   "price": 3.49,
+   "packaging": "Κάθε συσκ. 250 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 250.0,
+   "price_kg": 13.96,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-chai-latte/p11005044"
+  },
+  {
+   "title": "DELUXE Χριστουγεννιάτικο τσάι",
+   "price": 3.99,
+   "packaging": "90 g / 100 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 190.0,
+   "price_kg": 44.33,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-cristoygenniatiko-tsai/p11040217"
+  },
+  {
+   "title": "DELUXE Τσάι σε μορφή άνθους",
+   "price": 6.99,
+   "packaging": "6 τεμ.",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": null,
+   "price_kg": null,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-tsai-se-morfi-antoys/p11254449"
+  },
+  {
+   "title": "DELUXE Επιδόρπιο σε ποτήρι",
+   "price": 1.99,
+   "packaging": "Κάθε συσκ. 75 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 75.0,
+   "price_kg": 26.53,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-epidorpio-se-potiri/p11146871"
+  },
+  {
+   "title": "DELUXE Ribs BBQ με Bourbon Whiskey",
+   "price": 7.99,
+   "packaging": "430 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 430.0,
+   "price_kg": 18.58,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-ribs-bbq-me-bourbon-whiskey/p11028809"
+  },
+  {
+   "title": "DELUXE Νωπά Girasoli με πέστο φιστικιού",
+   "price": 2.59,
+   "packaging": "200 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 200.0,
+   "price_kg": 12.95,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-nopa-girasoli-me-pesto-fistikioy/p11108950"
+  },
+  {
+   "title": "DELUXE Air-Dried Ζαμπόν ωρίμανσης",
+   "price": 22.49,
+   "packaging": "1 Kg",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 1000.0,
+   "price_kg": 22.49,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-air-dried-zampon-orimansis/p11219232"
+  },
+  {
+   "title": "DELUXE Ξηροί καρποί με επικάλυψη σοκολάτας γάλακτος",
+   "price": 3.99,
+   "packaging": "Κάθε συσκ.175 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 175.0,
+   "price_kg": 22.8,
+   "url": "https://www.lidl-hellas.gr/p/deluxe-xiroi-karpoi-me-epikalypi-sokolatas-galaktos/p11040192"
   },
   {
    "title": "FAVORINA Σιροπιαστά σε ταψάκι",
@@ -652,7 +762,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-moysikes-loytrines-figoyres-me-sokolatakia/p11252018"
   },
   {
-   "title": "Favorina Κουραμπιέδες Ν.Καρβάλης",
+   "title": "FAVORINA Κουραμπιέδες Ν.Καρβάλης",
    "price": 4.99,
    "packaging": "470 g",
    "when": "Στο κατάστημα",
@@ -662,7 +772,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-koyrampiedes-n-karvalis/p11526448"
   },
   {
-   "title": "Favorina Μελομακάρονα",
+   "title": "FAVORINA Μελομακάρονα",
    "price": 7.49,
    "packaging": "960 g",
    "when": "Στο κατάστημα",
@@ -702,17 +812,17 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-aleimma-speculoos-poikilia/p11030422"
   },
   {
-   "title": "FAVORINA Μπισκότα ποικιλία",
+   "title": "FAVORINA Μπισκότα",
    "price": 4.89,
    "packaging": "Κάθε συσκ. 600 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 600.0,
    "price_kg": 8.15,
-   "url": "https://www.lidl-hellas.gr/p/favorina-mpiskota-poikilia/p11000519"
+   "url": "https://www.lidl-hellas.gr/p/favorina-mpiskota/p11000519"
   },
   {
-   "title": "Favorina Pandoro κλασικό",
+   "title": "FAVORINA Pandoro κλασικό",
    "price": 9.99,
    "packaging": "1 Kg",
    "when": "Στο κατάστημα",
@@ -762,7 +872,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-sokolatenia-nomismata/p11143741"
   },
   {
-   "title": "Favorina Stollen με αμυγδαλόπαστα",
+   "title": "FAVORINA Stollen με αμυγδαλόπαστα",
    "price": 4.99,
    "packaging": "750 g",
    "when": "Στο κατάστημα",
@@ -852,14 +962,14 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-lepkoycen/p11006488"
   },
   {
-   "title": "Favorina Πραλίνα μελομακάρονο",
+   "title": "FAVORINA Spread μελομακάρονο",
    "price": 3.29,
    "packaging": "350 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 350.0,
    "price_kg": 9.4,
-   "url": "https://www.lidl-hellas.gr/p/favorina-pralina-melomakarono/p11534837"
+   "url": "https://www.lidl-hellas.gr/p/favorina-spread-melomakarono/p11534837"
   },
   {
    "title": "Favorina Αμυγδαλόπαστα",
@@ -1022,14 +1132,14 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-poikilia-apo-eklekta-voytimata/p11003464"
   },
   {
-   "title": "FAVORINA 'Αη Βασίλης με σοκολάτακια",
+   "title": "FAVORINA Άγιος Βασίλης με σοκολάτακια",
    "price": 2.99,
    "packaging": "171 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 171.0,
    "price_kg": 17.49,
-   "url": "https://www.lidl-hellas.gr/p/favorina-ai-vasilis-me-sokolatakia/p11003504"
+   "url": "https://www.lidl-hellas.gr/p/favorina-agios-vasilis-me-sokolatakia/p11003504"
   },
   {
    "title": "FAVORINA Πραλίνες σοκολάτας σε κούπα",
@@ -1082,14 +1192,14 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-mini-sokolatakia/p11252019"
   },
   {
-   "title": "FAVORINA Μίνι Αγιος Βασίλης",
+   "title": "FAVORINA Σοκολατένιος Άγιος Βασίλης",
    "price": 0.89,
    "packaging": "60 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 60.0,
    "price_kg": 14.83,
-   "url": "https://www.lidl-hellas.gr/p/favorina-mini-agios-vasilis/p11133343"
+   "url": "https://www.lidl-hellas.gr/p/favorina-sokolatenios-agios-vasilis/p11133343"
   },
   {
    "title": "FAVORINA Πραλίνες σοκολάτας συσκευασία παζλ",
@@ -1110,6 +1220,26 @@
    "pack_g": 1000.0,
    "price_kg": 9.99,
    "url": "https://www.lidl-hellas.gr/p/favorina-gemista-snak/p11258069"
+  },
+  {
+   "title": "FAVORINA Λέπκουχεν καρδιά με γέμιση",
+   "price": 3.49,
+   "packaging": "",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": null,
+   "price_kg": null,
+   "url": "https://www.lidl-hellas.gr/p/favorina-lepkoycen-kardia-me-gemisi/p11001867"
+  },
+  {
+   "title": "FAVORINA Μίνι Panetonne με κομματάκια σοκολάτας",
+   "price": 1.39,
+   "packaging": "100 g",
+   "when": "Στο κατάστημα",
+   "loose": false,
+   "pack_g": 100.0,
+   "price_kg": 13.9,
+   "url": "https://www.lidl-hellas.gr/p/favorina-mini-panetonne-me-kommatakia-sokolatas/p11115722"
   }
  ]
 }
