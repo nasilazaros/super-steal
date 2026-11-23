@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:51+00:00",
+ "updated": "2026-11-23T14:03+00:00",
  "offers": [
   {
    "title": "Deluxe Grana Padano Π.Ο.Π.",
@@ -222,24 +222,24 @@
    "url": "https://www.lidl-hellas.gr/p/deluxe-pagoto/p11026744001"
   },
   {
-   "title": "Αρωματικό λάδι ποικιλία",
+   "title": "DELUXE Αρωματικό λάδι",
    "price": 4.99,
    "packaging": "Κάθε συσκ. 250 ml",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 250.0,
    "price_kg": 19.96,
-   "url": "https://www.lidl-hellas.gr/p/aromatiko-ladi-poikilia/p11007145"
+   "url": "https://www.lidl-hellas.gr/p/deluxe-aromatiko-ladi/p11007145"
   },
   {
-   "title": "DELUXE Μύλοι μπαχαρικών ποικιλία (Μαύρο πιπέρι)",
+   "title": "DELUXE Μύλος μπαχαρικών (Μαύρο πιπέρι)",
    "price": 3.99,
    "packaging": "55 g / 65 g / 85 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 205.0,
    "price_kg": 72.55,
-   "url": "https://www.lidl-hellas.gr/p/deluxe-myloi-mpacarikon-poikilia/p11254187006"
+   "url": "https://www.lidl-hellas.gr/p/deluxe-mylos-mpacarikon/p11254187006"
   },
   {
    "title": "Σάλτσες για μπάρμπεκιου",
@@ -372,14 +372,14 @@
    "url": "https://www.lidl-hellas.gr/p/mochi-gemista-poikilia/p11006698"
   },
   {
-   "title": "Kania Ποικιλία σάλτσες",
+   "title": "KANIA LIMITED EDITION Ποικιλία σάλτσες",
    "price": 5.49,
    "packaging": "5 x 130 ml",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 650.0,
    "price_kg": 8.45,
-   "url": "https://www.lidl-hellas.gr/p/kania-poikilia-saltses/p11001568"
+   "url": "https://www.lidl-hellas.gr/p/kania-limited-edition-poikilia-saltses/p11001568"
   },
   {
    "title": "DELUXE Πιπεριές τσίλι αλεσμένες",
@@ -762,7 +762,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-mini-speculoos-poikilia/p11007545"
   },
   {
-   "title": "Favorina Μουσικές λούτρινες φιγούρες με σοκολατάκια",
+   "title": "FAVORINA Μουσικές λούτρινες φιγούρες με σοκολατάκια",
    "price": 8.99,
    "packaging": "82 g",
    "when": "Στο κατάστημα",
@@ -862,7 +862,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-amygdalopasta-me-epikalypi-sokolatas/p11001894"
   },
   {
-   "title": "Favorina Τρουφάκια",
+   "title": "FAVORINA Τρουφάκια",
    "price": 2.49,
    "packaging": "250 g",
    "when": "Στο κατάστημα",
@@ -972,14 +972,14 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-lepkoycen/p11006488"
   },
   {
-   "title": "FAVORINA Spread μελομακάρονο",
+   "title": "FAVORINA Πραλίνα μελομακάρονο",
    "price": 3.29,
    "packaging": "350 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 350.0,
    "price_kg": 9.4,
-   "url": "https://www.lidl-hellas.gr/p/favorina-spread-melomakarono/p11534837"
+   "url": "https://www.lidl-hellas.gr/p/favorina-pralina-melomakarono/p11534837"
   },
   {
    "title": "Favorina Αμυγδαλόπαστα",
@@ -1132,14 +1132,14 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-sokolatenies-figoyres/p11002810"
   },
   {
-   "title": "FAVORINA Ποικιλία από εκλεκτά βουτήματα",
+   "title": "FAVORINA Mπισκότα ποικιλία",
    "price": 6.99,
    "packaging": "2 x 250 g",
    "when": "Στο κατάστημα",
    "loose": false,
    "pack_g": 500.0,
    "price_kg": 0.0,
-   "url": "https://www.lidl-hellas.gr/p/favorina-poikilia-apo-eklekta-voytimata/p11003464"
+   "url": "https://www.lidl-hellas.gr/p/favorina-mpiskota-poikilia/p11003464"
   },
   {
    "title": "FAVORINA Άγιος Βασίλης με σοκολάτακια",
@@ -1222,7 +1222,7 @@
    "url": "https://www.lidl-hellas.gr/p/favorina-pralines-sokolatas-syskeyasia-pazl/p11219134"
   },
   {
-   "title": "Favorina Γεμιστά σνακ",
+   "title": "FAVORINA Γεμιστά σνακ",
    "price": 9.99,
    "packaging": "1 Kg",
    "when": "Στο κατάστημα",
@@ -1250,6 +1250,26 @@
    "pack_g": 100.0,
    "price_kg": 13.9,
    "url": "https://www.lidl-hellas.gr/p/favorina-mini-panetonne-me-kommatakia-sokolatas/p11115722"
+  },
+  {
+   "title": "FAVORINA Μπουκιές ξηρών καρπών με επικάλυψη σοκολάτας ποικιλία",
+   "price": null,
+   "packaging": "",
+   "when": "μόνο στο κατάστημα από 26.11. - 02.12.",
+   "loose": false,
+   "pack_g": null,
+   "price_kg": null,
+   "url": "https://www.lidl-hellas.gr/p/favorina-mpoykies-xiron-karpon-me-epikalypi-sokolatas-poikilia/p11041461"
+  },
+  {
+   "title": "FAVORINA Αμυγδαλόπαστα με νουγκά (Ρολό από μαρτζιπάν γεμισμένο με κρέμα φουντουκιού και επικαλυμμένο με σοκολάτα γάλακτος)",
+   "price": 1.59,
+   "packaging": "100 g",
+   "when": "μόνο στο κατάστημα από 26.11. - 02.12.",
+   "loose": false,
+   "pack_g": 100.0,
+   "price_kg": 15.9,
+   "url": "https://www.lidl-hellas.gr/p/favorina-amygdalopasta-me-noygka/p11008017001"
   },
   {
    "title": "FAVORINA Σοκολατένιος Άγιος Βασίλης με κουφετάκια",
